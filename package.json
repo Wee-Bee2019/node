@@ -1,0 +1,19 @@
+{
+  "name": "svyataya-apps",
+  "version": "1.0.0",
+  "description": "Приложения для интеграций",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "integrations"
+  ],
+  "author": "Zakirov Marat <muqa@yandex.ru>",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.11"
+  }
+}
